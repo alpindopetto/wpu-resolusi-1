@@ -5,5 +5,8 @@ RENCANA TUGAS WPU
 -membuat data base
  -database guru
  -database siswa
+ -database petugas
 -membuat frontend
+ -menggunakan html & css
 -membuat backend
+ -mengunakan php & java
